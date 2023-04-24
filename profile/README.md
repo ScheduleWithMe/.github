@@ -1,5 +1,3 @@
-# 기획
-
 # Schedule With Me  - SWM
 
 # 팀원들끼리 시간을 맞춰보자!
